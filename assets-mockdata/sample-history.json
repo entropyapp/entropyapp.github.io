@@ -1,0 +1,60 @@
+[
+  {
+    "palette": "PROJ-Entropy",
+    "dateStart": "2019-10-03T19:44:40.039Z"
+  },
+  {
+    "palette": "PROJ-other",
+    "dateStart": "2019-10-03T19:31:40.569Z",
+    "dateStop": "2019-10-03T19:44:38.512Z"
+  },
+  {
+    "palette": "PROJ-other",
+    "dateStart": "2019-10-03T18:51:04.179Z",
+    "dateStop": "2019-10-03T19:11:30.250Z"
+  },
+  {
+    "palette": "PROJ-Entropy",
+    "dateStart": "2019-10-03T15:59:27.745Z",
+    "dateStop": "2019-10-03T16:27:30.058Z"
+  },
+  {
+    "palette": "WORK",
+    "dateStart": "2019-10-03T14:00:00.000Z",
+    "dateStop": "2019-10-03T15:00:00.000Z"
+  },
+  {
+    "palette": "WORKOUT",
+    "dateStart": "2019-10-03T03:16:02.577Z"
+  },
+  {
+    "palette": "HOME",
+    "dateStart": "2019-10-03T01:21:49.096Z",
+    "dateStop": "2019-10-03T03:16:01.979Z"
+  },
+  {
+    "palette": "WORK",
+    "dateStart": "2019-10-02T20:34:30.490Z",
+    "dateStop": "2019-10-02T22:17:08.317Z"
+  },
+  {
+    "palette": "PROJ-other",
+    "dateStart": "2019-10-02T20:27:07.107Z",
+    "dateStop": "2019-10-02T20:34:28.667Z"
+  },
+  {
+    "palette": "WORK",
+    "dateStart": "2019-10-02T19:13:57.860Z",
+    "dateStop": "2019-10-02T20:26:57.967Z"
+  },
+  {
+    "palette": "PROJ-Entropy",
+    "dateStart": "2019-10-02T16:13:41.364Z",
+    "dateStop": "2019-10-02T19:13:45.546Z"
+  },
+  {
+    "palette": "PROJ-Entropy",
+    "dateStart": "2019-10-01T18:13:41.364Z",
+    "dateStop": "2019-10-01T21:13:45.546Z"
+  }
+]
